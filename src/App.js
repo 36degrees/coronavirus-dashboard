@@ -28,7 +28,8 @@ const F = props => <Footer
     items: [
       { children: ['Accessibility'], href: '/accessibility' },
       { children: ['Cookies'], href: '/cookies' }
-    ]
+    ],
+    visuallyHiddenTitle: 'Items',
   }}
 />;
 
